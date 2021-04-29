@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "_iconv-lite@0.4.24@iconv-lite": "^0.4.24",
+    "_safer-buffer@2.1.2@safer-buffer": "^2.1.2",
+    "_urlencode@1.1.0@urlencode": "^1.1.0",
+    "ejs": "^3.1.6",
+    "iconv-lite": "^0.4.24",
+    "md5": "^2.3.0",
+    "safer-buffer": "^2.1.2",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
